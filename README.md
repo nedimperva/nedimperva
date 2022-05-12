@@ -7,9 +7,17 @@ I'm Nedim and I'm passionate about all things React. I work hard, I care about w
 <p align="center"> 
 When I'm not coding find me taking photos or going hiking to the nearest mountain.
 </p>
-
+<!--
 <h2 align="left">🔗 Connect with me</h2>
-
-
-[![Linkedin Badge](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/nedimperva/) [![Gmail Badge](https://images.macrumors.com/t/QY0KdwbObUzURWrw5C2buSSZseY=/400x0/article-new/2020/10/newgmaillogo.0.jpg?lossy)](mailto:nedim.perva@gmail.com)
+-->
+<h3>Things I code with</h3>
+  <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
