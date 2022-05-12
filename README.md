@@ -11,5 +11,5 @@ When I'm not coding find me taking photos or going hiking to the nearest mountai
 <h2 align="left">🔗 Connect with me</h2>
 
 
-[![Linkedin Badge](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png&link=https://www.linkedin.com/in/nedimperva/)](https://www.linkedin.com/in/nedimperva/) [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nedim.perva@gmail.com)](mailto:nedim.perva@gmail.com)
+[![Linkedin Badge](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/nedimperva/) [![Gmail Badge](https://images.macrumors.com/t/QY0KdwbObUzURWrw5C2buSSZseY=/400x0/article-new/2020/10/newgmaillogo.0.jpg?lossy)](mailto:nedim.perva@gmail.com)
 
