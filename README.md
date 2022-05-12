@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋! I'm Nedim Perva</h1>
 
-<!--
-**nedimperva/nedimperva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Nedim and I'm passionate about all things React. I work hard, I care about writing clean code and I genuinely love to learn.  
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+When I'm not coding find me taking photos or going hiking to the nearest mountain.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me**
+
+[![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nedimperva/)](https://www.linkedin.com/in/sy-rashid/)
+ [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nedim.perva@gmail.com)](mailto:sy@mangotree.dev)
+ 
+ 
