@@ -8,7 +8,7 @@ I'm Nedim and I'm passionate about all things React. I work hard, I care about w
 When I'm not coding find me taking photos or going hiking to the nearest mountain.
 </p>
 
-<h2 align="center">🔗 Connect with me</h2>
+<h2 align="left">🔗 Connect with me</h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nedimperva/)](https://www.linkedin.com/in/sy-rashid/)
