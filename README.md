@@ -7,9 +7,11 @@ I'm Nedim and I'm passionate about all things React. I work hard, I care about w
 <p align="center"> 
 When I'm not coding find me taking photos or going hiking to the nearest mountain.
 </p>
-<!--
+
 <h2 align="left">🔗 Connect with me</h2>
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIN-nedimperva-blue)](https://www.linkedin.com/in/nedimperva/) [![Gmail Badge](https://img.shields.io/badge/Gmail-nedim.perva%40gmail.com-red)](mailto:nedim.perva@gmail.com)
+
 <h3>Things I code with</h3>
   <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
