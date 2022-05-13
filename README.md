@@ -26,3 +26,6 @@ When I'm not coding find me taking photos or going hiking to the nearest mountai
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+<h2> Github Stats</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedimperva)]()
