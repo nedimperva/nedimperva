@@ -12,7 +12,7 @@ When I'm not coding find me taking photos or going hiking to the nearest mountai
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIN-nedimperva-blue)](https://www.linkedin.com/in/nedimperva/) [![Gmail Badge](https://img.shields.io/badge/Gmail-nedim.perva%40gmail.com-red)](mailto:nedim.perva@gmail.com)
 
-<h3>🛠️  Things I code with</h3>
+<h3>🛠️ Languages and Tools</h3>
   <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
