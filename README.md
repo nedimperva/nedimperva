@@ -26,7 +26,8 @@ When I'm not coding find me taking photos or going hiking to the nearest mountai
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-CB3837?style=flat-square&logo=firebase&logoColor=orange" />
 </p>
-
+|
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nedimperva/nedimperva">
@@ -35,4 +36,5 @@ When I'm not coding find me taking photos or going hiking to the nearest mountai
 <a href="https://github.com/nedimperva/nedimperva">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nedimperva&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nedim's GitHub Stats" />
 </a>
+-->
 
